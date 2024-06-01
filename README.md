@@ -1,6 +1,6 @@
 # Caimath
 
-## Introduce Myself
+## Introducing Myself
 - 👋 Hi, I’m @caimath
 - 👀 I’m interested in IT
 - 🌱 I am currently studying a Bachelor's degree in Computer Science with a focus on Networks & Telecommunications.
