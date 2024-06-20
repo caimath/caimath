@@ -15,3 +15,7 @@
 - Procedural
 - OOP
 - Pygame
+
+## Language
+- French: native
+- English
