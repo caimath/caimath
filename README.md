@@ -4,7 +4,17 @@
 - 👋 Hi, I’m @caimath
 - 👀 I’m interested in IT
 - 🌱 I am currently studying a Bachelor's degree in Computer Science with a focus on Networks & Telecommunications.
-- 📫 How to reach me ? Discord: caimath.
+- 📫 How to reach me ?
+<div>
+  <a href='https://discord.com/users/920989650825388032'>
+    <img src='https://skillicons.dev/icons?i=discord'>
+  </a>
+    
+  <a href='https://www.linkedin.com/in/mathias-c-680646309/'>
+    <img src='https://skillicons.dev/icons?i=linkedin'>
+  </a>
+</div>
+
 
 ## Skills
 
