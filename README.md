@@ -9,14 +9,23 @@
 ## Skills
 
 ### Web development
-- HTML/CSS
-
-### Python
 <div>
-  <img width='40px' height='40px' src='https://github.com/python/pythondotorg/blob/main/static/img/python-logo-large.png'>
+  <img src='https://skillicons.dev/icons?i=html,css,php,mysql'>  
+</div>
+
+### Programming languages
+<div>
+  <img src='https://skillicons.dev/icons?i=py,bash'>
   <img width='90px' height='40px' src='https://www.pygame.org/docs/_images/pygame_logo.png'>
 </div>
 
+### Tools
+<div>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,md,notion,discord">
+</div>
+
+### OS
+<img src='https://skillicons.dev/icons?i=windows,linux,redhat,raspberrypi'>
 
 ## Language
 - French: native
