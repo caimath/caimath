@@ -12,9 +12,11 @@
 - HTML/CSS
 
 ### Python
-- Procedural
-- OOP
-- Pygame
+<div>
+  <img width='40px' height='40px' src='https://github.com/python/pythondotorg/blob/main/static/img/python-logo-large.png'>
+  <img width='90px' height='40px' src='https://www.pygame.org/docs/_images/pygame_logo.png'>
+</div>
+
 
 ## Language
 - French: native
