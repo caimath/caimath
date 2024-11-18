@@ -45,6 +45,18 @@
 <img src="https://tryhackme-badges.s3.amazonaws.com/tam.std.png" alt="TryHackMe">
 
 ## Github
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=caimath&show_icons=true&theme=radical)  
-![](https://komarev.com/ghpvc/?username=caimath&style=flat-square)
+<div>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api?username=caimath&theme=blueberry&count_private=true&hide_border=true&line_height=20" width="400px" height="200px" />
+  </a>
+  <a href="#">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caimath&layout=compact&theme=blueberry&count_private=true&hide_border=true" width="400px" height="200px" />
+  </a>
+
+  <br>
+  <a href="#">
+    <img src="https://komarev.com/ghpvc/?username=caimath&style=flat-square">
+  </a>
+</div>
+
 
