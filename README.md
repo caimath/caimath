@@ -1,4 +1,7 @@
 # Caimath
+<p align="center">
+  <img src="https://media1.tenor.com/m/WvsQo50yndQAAAAC/ardapak-turk.gif" alt="arda" width="100px" height="140px">
+</p>
 
 ## Introducing Myself
 - 👋 Hi, I’m @caimath
