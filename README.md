@@ -45,7 +45,9 @@
 - English
 
 ## Tryhackme
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3460264" style='border:none;'></iframe>
+<div>
+<img src="https://tryhackme-badges.s3.amazonaws.com/tam.std.png" alt="Your Image Badge" />
+</div>
 
 ## Github
 <div>
