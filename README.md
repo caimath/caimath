@@ -28,7 +28,7 @@
 
 ### Programming languages
 <div>
-  <img src='https://skillicons.dev/icons?i=py,bash,rust,solidity'>
+  <img src='https://skillicons.dev/icons?i=py,bash,solidity'>
   <img width='90px' height='40px' src='https://www.pygame.org/docs/_images/pygame_logo.png'>
 </div>
 
