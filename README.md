@@ -23,7 +23,7 @@
 
 ### Web development
 <div>
-  <img src='https://skillicons.dev/icons?i=html,css,php,mysql'>  
+  <img src='https://skillicons.dev/icons?i=html,css,php,mysql,js,nodejs,npm'>  
 </div>
 
 ### Programming languages
