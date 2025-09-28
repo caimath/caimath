@@ -44,11 +44,6 @@
 - French: native
 - English
 
-## Tryhackme
-<div>
-<img src="https://tryhackme-badges.s3.amazonaws.com/tam.std.png" alt="Your Image Badge" />
-</div>
-
 ## Github
 <div>
   <a href="#">
