@@ -18,7 +18,6 @@
   </a>
 </div>
 
-
 ## Skills
 
 ### Web development
@@ -32,9 +31,14 @@
   <img width='90px' height='40px' src='https://www.pygame.org/docs/_images/pygame_logo.png'>
 </div>
 
+### DevOps
+<div>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,githubactions,aws">
+</div>
+
 ### Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,git,github,md,notion,discord">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,md,notion,discord">
 </div>
 
 ### OS
