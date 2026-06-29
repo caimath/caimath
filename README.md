@@ -42,7 +42,7 @@
 </div>
 
 ### OS
-<img src='https://skillicons.dev/icons?i=windows,linux,redhat,raspberrypi'>
+<img src='https://skillicons.dev/icons?i=windows,linux,kali,raspberrypi'>
 
 ## Language
 - French: native
