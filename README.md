@@ -38,7 +38,7 @@
 
 ### Tools
 <div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,md,latex,notion">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,md,latex">
 </div>
 
 ### OS
